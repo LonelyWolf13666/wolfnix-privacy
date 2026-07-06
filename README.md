@@ -1,22 +1,5 @@
 # wolfnix-privacy
-<!DOCTYPE html>
-<html lang="de">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Wolfnix — Datenschutzerklärung</title>
-<style>
-*{margin:0;padding:0;box-sizing:border-box}
-body{background:#0a0a0a;color:#e8e8e8;font-family:'Inter',sans-serif;max-width:700px;margin:0 auto;padding:40px 20px}
-h1{color:#FF6B00;font-size:1.8rem;font-weight:900;margin-bottom:8px}
-.subtitle{color:#666;font-size:.85rem;margin-bottom:40px}
-h2{color:#FF6B00;font-size:1rem;font-weight:700;margin:32px 0 12px;text-transform:uppercase;letter-spacing:.1em}
-p{color:#999;line-height:1.8;font-size:.9rem;margin-bottom:12px}
-.highlight{background:#171717;border-left:3px solid #FF6B00;padding:14px 16px;border-radius:0 8px 8px 0;margin:16px 0}
-.highlight p{color:#e8e8e8;margin:0}
-footer{margin-top:60px;padding-top:20px;border-top:1px solid #242424;color:#444;font-size:.75rem}
-</style>
-</head>
+
 <body>
 
 <h1>🐺 Wolfnix</h1>
